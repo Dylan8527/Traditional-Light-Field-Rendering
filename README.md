@@ -41,9 +41,20 @@ python src/main.py -t 5
 
 ## Demos
 
-### Bilinear interpolation
+### Bilinear Interpolation
 
-<video src="video/bilinear.avi"></video>
+![bilinear](report/bilinear.png)
 
+### Quadra-linear Interpolation
 
+![quadra-linear](report/quadra-linear.png)
 
+### Variable Focal Plane
+
+![stocking 0.200](report/stocking 0.200.png)
+
+![computer 0.190](report/computer 0.190.png)
+
+![red bull 0.105](report/red bull 0.105.png)
+
+![pumpkin 0.111](report/pumpkin 0.111.png)
