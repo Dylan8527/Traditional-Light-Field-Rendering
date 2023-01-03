@@ -51,10 +51,11 @@ python src/main.py -t 5
 
 ### Variable Focal Plane
 
-![stocking 0.200](report/stocking 0.200.png)
+![stocking 0.200](report/stocking.png)
 
-![computer 0.190](report/computer 0.190.png)
+![computer 0.190](report/computer.png)
 
-![red bull 0.105](report/red bull 0.105.png)
+![red bull 0.105](report/redbull.png)
 
-![pumpkin 0.111](report/pumpkin 0.111.png)
+![pumpkin 0.111](report/pumpkin.png)
+
