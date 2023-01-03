@@ -39,5 +39,11 @@ python src/main.py -t 5
 
 ​	See your results in "./results" or you can watch demo videos in "./video"
 
+## Demos
+
+### Bilinear interpolation
+
+<video src="video/bilinear.avi"></video>
+
 
 
